@@ -8,7 +8,7 @@ Brief suggestion: a) if want to train the nets on your own, run ‘Net1’ - ‘
 
 Please make sure reading the this file before running the codes.
 
-1, These libraries must be installed: theano, numpy, matplotlib, pandas, lasagne(this is important) 
+1, These libraries must be installed: theano, numpy, matplotlib, pandas, lasagne 
 
 2, If the device running these code has GPU, then either CUDA or OpenCL should be confirmed able to work smoothly with theano to make sure the code won’t take forever to run (with gpu each epoch takes 1-9s according to different nets, without gnu each epoch takes 2min-5min according to different nets, basically training each net at least needs 1000-3000 epochs)
 
