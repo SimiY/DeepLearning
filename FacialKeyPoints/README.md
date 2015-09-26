@@ -1,6 +1,8 @@
 # Deep learning for human facial keypoints detection
 # This is a kaggle competition and was ranked at #21. 
 
+![alert] (intro.png)
+
 How the CNN built and trained was followed by Daniel Nouri's neural network public tutorial and the cascade part(Net 5) was inspired by the paper "Deep Convolutional Network Cascade for Facial Point Detection". 
 
 Brief suggestion: a) if want to train the nets on your own, run ‘Net1’ - ‘Net5’; b) if want to check the recognition result, run ‘test2’; c) if want to check the history training or valid loss curve, run ‘test3’. 
